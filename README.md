@@ -47,7 +47,7 @@
 
 ## Calculator to PC
 
--Check EDITOR contains by pressing [E] key then the DOWN arrow :
+- Check EDITOR contents by pressing [E] key then the DOWN arrow :
 Press [ON/BREAK] key to return to global TEXT EDITOR screen.
 - Delete any previous text in the EDITOR area by pressing [D] key,
 then confirm by [Y] 
