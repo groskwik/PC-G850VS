@@ -8,11 +8,15 @@
 
 ### Hyperterminal Setup
 
-File > Properties> Settings
+File > Properties> Settings:
 
 ![hyperterminal1](hyperterminal1.png)
 
+ASCCI Button:
+
 ![hyperterminal2](hyperterminal2.PNG)
+
+Choose the program file on the PC:
 
 ![hyperterminal1](hyperterminal3.png)
 
