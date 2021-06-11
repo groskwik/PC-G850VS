@@ -57,3 +57,15 @@ then confirm by [Y]
 - Access to the SERIAL Input Ouput menu by pressing [S] key :
 - Send the ASCII file by pressing the [S] key
 - Return to the S.I.O. main menu (ON/BREAK key).
+
+# Where to buy a USB adapter ?
+
+https://buyee.jp/item/yahoo/shopping/tmfg_A01-00126
+
+# Links
+
+http://airbug.one.free.fr/PC-E220/PC-E220_USB.html
+http://kyoro205.blog.fc2.com/blog-entry-165.html
+https://449065.forumromanum.com/member/forum/entry_ubb.user_449065.1251138749.1111402832.1111402832.1.ram_karte_einrichten_transfile_pc_e500-sharp_pc_e500.html
+https://www.hpmuseum.org/forum/thread-10520-page-7.html
+http://kyoro205.blog.fc2.com/blog-entry-165.html
