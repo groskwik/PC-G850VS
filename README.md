@@ -10,7 +10,7 @@
 
 File > Properties> Settings
 
-![hyperterminal1](hyperterminal1.png)
+![hyperterminal1](hyperterminal1.PNG)
 
 ![hyperterminal1](hyperterminal2.png)
 
