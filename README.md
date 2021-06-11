@@ -47,4 +47,13 @@
 
 ## Calculator to PC
 
-
+-Check EDITOR contains by pressing [E] key then the DOWN arrow :
+Press [ON/BREAK] key to return to global TEXT EDITOR screen.
+- Delete any previous text in the EDITOR area by pressing [D] key,
+then confirm by [Y] 
+- Access to the BASIC <=> TEXT converter by pressing [B] Key
+- Convert BASIC program into TEXT by pressing [T] key,
+then confirm by [Y]
+- Access to the SERIAL Input Ouput menu by pressing [S] key :
+- Send the ASCII file by pressing the [S] key
+- Return to the S.I.O. main menu (ON/BREAK key).
