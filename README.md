@@ -16,6 +16,8 @@ ASCCI Button:
 
 ![hyperterminal2](hyperterminal2.PNG)
 
+## PC to Calculator
+
 Choose the program file on the PC:
 
 ![hyperterminal1](hyperterminal3.png)
