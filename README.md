@@ -10,7 +10,7 @@
 
 ![hyperterminal1](hyperterminal1.png)
 
-- ASCII Button:
+- ASCII Setup:
 
 ![hyperterminal2](hyperterminal2.PNG)
 
