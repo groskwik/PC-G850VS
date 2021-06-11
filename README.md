@@ -1,12 +1,10 @@
 # PC-G850VS
 
-## Connect the Calculator to the PC
-
-### COM settings on the PC
+## COM settings on the PC
 
 ![port_settings](port_settings.PNG)
 
-### Hyperterminal Setup
+## Hyperterminal Setup
 
 File > Properties> Settings:
 
@@ -16,7 +14,12 @@ ASCCI Button:
 
 ![hyperterminal2](hyperterminal2.PNG)
 
+## Calculator Setup
+
+
 ## PC to Calculator
+
+On the calculator
 
 Choose the program file on the PC:
 
