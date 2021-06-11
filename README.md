@@ -16,9 +16,18 @@ ASCCI Button:
 
 ## Calculator Setup
 
-![850_settings](850_settings.PNG)
-![850_settings2](850_settings2.PNG)
+[TEXT] > [S]
+
 ![850_settings3](850_settings3.PNG)
+
+[F]
+
+Select an item with [↑] [↓], set parameters with [←] [→], and confirm with [RETURN]. (Enter the end of line directly with the key)
+
+![850_settings](850_settings.PNG)
+ 
+![850_settings2](850_settings2.PNG)
+
 
 ## PC to Calculator
 
