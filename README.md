@@ -10,7 +10,7 @@ File > Properties> Settings:
 
 ![hyperterminal1](hyperterminal1.png)
 
-ASCCI Button:
+ASCII Button:
 
 ![hyperterminal2](hyperterminal2.PNG)
 
@@ -31,11 +31,21 @@ Select an item with [↑] [↓], set parameters with [←] [→], and confirm wi
 
 ## PC to Calculator
 
+- Launch S.I.O. menu: [TEXT] > [S]
+
+![850_settings3](850_settings3.PNG)
+
+- Delete any previous text in the EDITOR area by pressing [D] key, then confirm by [Y].
+- Load the ASCII file by pressing the [L] key,
+- Send the file:
+
+![hyperterminal2](hyperterminal2.PNG)
+
+- Return to the S.I.O. main menu (ON/BREAK key).
+- Return to the TEXT area by pressing the ON/BREAK key.
+- Access to the BASIC <=> TEXT converter by pressing [B] Key.
 On the calculator
 
-Choose the program file on the PC:
-
-![hyperterminal1](hyperterminal3.png)
 
 
 
