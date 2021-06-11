@@ -6,5 +6,11 @@
 
 ![port_settings](port_settings.PNG)
 
+### Hyperterminal Setup
+
+![hyperterminal1](hyperterminal1.png)
+![hyperterminal1](hyperterminal2.png)
+![hyperterminal1](hyperterminal3.png)
+
 
 
