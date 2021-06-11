@@ -16,6 +16,9 @@ ASCCI Button:
 
 ## Calculator Setup
 
+![850_settings](850_settings.PNG)
+![850_settings2](850_settings2.PNG)
+![850_settings3](850_settings3.PNG)
 
 ## PC to Calculator
 
