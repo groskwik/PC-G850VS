@@ -8,8 +8,7 @@
 
 ### Hyperterminal Setup
 
-In "Hyperterminal" Menu "File"-"Properties":
-Select tab "Settings":
+File > Properties> Settings
 
 ![hyperterminal1](hyperterminal1.png)
 
