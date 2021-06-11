@@ -39,7 +39,7 @@
 - Load the ASCII file by pressing the [L] key,
 - Send the file:
 
-![hyperterminal2](hyperterminal2.PNG)
+![hyperterminal3](hyperterminal3.PNG)
 
 - Return to the S.I.O. main menu (ON/BREAK key).
 - Return to the TEXT area by pressing the ON/BREAK key.
