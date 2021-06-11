@@ -6,23 +6,23 @@
 
 ## Hyperterminal Setup
 
-File > Properties> Settings:
+- File > Properties> Settings:
 
 ![hyperterminal1](hyperterminal1.png)
 
-ASCII Button:
+- ASCII Button:
 
 ![hyperterminal2](hyperterminal2.PNG)
 
 ## Calculator Setup
 
-[TEXT] > [S]
+- [TEXT] > [S]
 
 ![850_settings3](850_settings3.PNG)
 
-[F]
+-[F]
 
-Select an item with [↑] [↓], set parameters with [←] [→], and confirm with [RETURN]. (Enter the end of line directly with the key)
+- Select an item with [↑] [↓], set parameters with [←] [→], and confirm with [RETURN]. (Enter the end of line directly with the key)
 
 ![850_settings](850_settings.PNG)
  
@@ -44,8 +44,7 @@ Select an item with [↑] [↓], set parameters with [←] [→], and confirm wi
 - Return to the S.I.O. main menu (ON/BREAK key).
 - Return to the TEXT area by pressing the ON/BREAK key.
 - Access to the BASIC <=> TEXT converter by pressing [B] Key.
-On the calculator
 
-
+## Calculator to PC
 
 
