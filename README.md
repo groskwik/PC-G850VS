@@ -2,11 +2,13 @@
 
 Collection of information on the Sharp PC-G850VS
 
-## COM settings on the PC
+## File transfer
+
+### COM settings on the PC
 
 ![port_settings](port_settings.PNG)
 
-## Hyperterminal Setup
+### Hyperterminal Setup
 
 - File > Properties> Settings:
 
@@ -16,7 +18,7 @@ Collection of information on the Sharp PC-G850VS
 
 ![hyperterminal2](hyperterminal2.PNG)
 
-## Calculator Setup
+### Calculator Setup
 
 - [TEXT] > [S]
 
@@ -31,7 +33,7 @@ Collection of information on the Sharp PC-G850VS
 ![850_settings2](850_settings2.PNG)
 
 
-## PC to Calculator
+### PC to Calculator
 
 - Launch S.I.O. menu: [TEXT] > [S]
 
@@ -47,7 +49,7 @@ Collection of information on the Sharp PC-G850VS
 - Return to the TEXT area by pressing the ON/BREAK key.
 - Access to the BASIC <=> TEXT converter by pressing [B] Key.
 
-## Calculator to PC
+### Calculator to PC
 
 - Check EDITOR contents by pressing [E] key then the DOWN arrow :
 Press [ON/BREAK] key to return to global TEXT EDITOR screen.
@@ -60,11 +62,19 @@ then confirm by [Y]
 - Send the ASCII file by pressing the [S] key
 - Return to the S.I.O. main menu (ON/BREAK key).
 
-# Where to buy a USB adapter ?
+### Where to buy a USB adapter ?
 
 https://buyee.jp/item/yahoo/shopping/tmfg_A01-00126
 
-# Links
+## Programs
+
+### rpn.bas
+HP-15C simulator, see https://www.hpmuseum.org/forum/thread-10520-page-7.html
+
+### dampv.bas
+Calculate the natural frequency of uniform beams as well as rayleigh damping.
+
+## Links
 
 - http://airbug.one.free.fr/PC-E220/PC-E220_USB.html
 - http://kyoro205.blog.fc2.com/blog-entry-165.html
