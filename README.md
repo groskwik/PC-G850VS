@@ -1,5 +1,7 @@
 # PC-G850VS
 
+Collection of information on the Sharp PC-G850VS
+
 ## COM settings on the PC
 
 ![port_settings](port_settings.PNG)
@@ -67,5 +69,5 @@ https://buyee.jp/item/yahoo/shopping/tmfg_A01-00126
 - http://airbug.one.free.fr/PC-E220/PC-E220_USB.html
 - http://kyoro205.blog.fc2.com/blog-entry-165.html
 - https://449065.forumromanum.com/member/forum/entry_ubb.user_449065.1251138749.1111402832.1111402832.1.ram_karte_einrichten_transfile_pc_e500-sharp_pc_e500.html
-- https://www.hpmuseum.org/forum/thread-10520-page-7.html
+- https://www.hpmuseum.org/forum/thread-10520-page-7.html (rpn.bas)
 - http://kyoro205.blog.fc2.com/blog-entry-165.html
