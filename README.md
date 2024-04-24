@@ -35,11 +35,12 @@ Collection of information on the Sharp PC-G850VS
 
 ### PC to Calculator
 
+- Delete any previous text in the EDITOR area: [TEXT] > [D] key, then confirm by [Y].
 - Launch S.I.O. menu: [TEXT] > [S]
 
 ![850_settings3](850_settings3.PNG)
 
-- Delete any previous text in the EDITOR area by pressing [D] key, then confirm by [Y].
+
 - Load the ASCII file by pressing the [L] key,
 - Send the file:
 
