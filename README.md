@@ -16,7 +16,7 @@ Collection of information on the Sharp PC-G850VS
 
 - ASCII Setup:
 
-![hyperterminal2](hyperterminal2.PNG)
+![hyperterminal2](hyperterminal2-1.PNG)
 
 ### Calculator Setup
 
