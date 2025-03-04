@@ -72,7 +72,7 @@ https://buyee.jp/item/yahoo/shopping/tmfg_A01-00126
 ### rpn.bas
 HP-15C simulator, see https://www.hpmuseum.org/forum/thread-10520-page-7.html
 
-### dampv.bas
+### DAMPING.bas
 Calculate the natural frequency of uniform beams as well as rayleigh damping.
 
 ## Links
